@@ -1,6 +1,13 @@
 Names: Olivia Gomes
 Date: 02/07/17
 
-This is my first text document for MART 341-wed Development.
+This is my new text document for MART 341-web Development.!!!
+this has been altered
 
-I added a new line to this file in my text editor!!!
+I added a new line to this file in my text editor!!
+
+adding a new line
+and another
+
+
+hahaha 
