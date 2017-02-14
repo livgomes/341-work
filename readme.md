@@ -18,11 +18,11 @@ Test file typed covered this week are;
 
 **Test Editor**- a text editor is the application that is used to edit text documents.
 
-**Git Version Control**- allows editors to track the change they make to a file.
+**Git Version Control**- allows editors to track the changes made to a file.
 
 **GUI's**- allows editors to view visual changes, it works as a front-end to Git. Sourcetree and GitHub are examples of a GUI.
 
-**Markup & Markdown**- markup language is allows a documents and text to be annotated in a syntactically distinguishable way. Markdown is a file with .md extension, which allows editors to easily distinguish portions of text and include photos to a document.
+**Markup & Markdown**- markup language allows documents and text to be annotated in a syntactically distinguishable way. Markdown is a file with .md extension, which allows editors to easily distinguish portions of text and include photos to a document.
 
 ### 2. Assignment Process
 1. Download Powershell
@@ -45,10 +45,10 @@ The biggest issue I had this week was learning how to push my work to GitHub thr
 
 ## 4. Further Discussion
 
-I reaally enjoyed working with powershell and playing around with it. I would to learn more about the other codes and functions of powershell so I can use it more accurately.
+I really enjoyed working with powershell and playing around with it. I would like to learn more about the other codes and functions of powershell so I can use it more accurately.
 ## 5. Assistance
 
-Unfortunately this week I was unb  able to help my classmates, as I found it quite difficult myself, however now that the process has become a clearer to me, I hope to be able to assist my feelow classmates in the coming weeks.
+Unfortunately this week I was unable to help my classmates, as I found it quite difficult myself, however now that the process has become alot clearer to me, I hope to be able to assist my fellow classmates in the coming weeks.
 
 ## 6. Screenshot
 
