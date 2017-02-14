@@ -33,7 +33,7 @@ Test file typed covered this week are;
 6. Create readme file
 7. `Git add` adding the readme file to atom
 7. Edit and save readme.md file
-7. `git commit -m` in powershell
+7. `Git commit -m` in powershell
 8. `Git log`
 8. Take screenshot
 8. Push test1.txt, readme.md and screenshot to GitHub through the use of GitHub desktop
@@ -42,3 +42,10 @@ Test file typed covered this week are;
 
 The biggest issue I had this week was learning how to push my work to GitHub through sourcetree, to fix this problem I attended a tutorial class, at which I learnt how to use the GitHub desktop. The tutorial was super helpful and I look forward to attending throughout this semster. Another difficulty I faced was remmbering which codes to use when and trying to find which programming editor worked best for me. After much practice with all, I found powershell to be the best for me. I found this link usful!
 [Learning powershell](https://blog.udemy.com/powershell-tutorial/)
+
+## 4. Further Discussion
+
+I reaally enjoyed working with powershell and playing around with it. I would to learn more about the other codes and functions of powershell so I can use it more accurately.
+## 5. Assistance
+
+Unfortunately this week I was unb  able to help my classmates, as I found it quite difficult myself, however now that the process has become a clearer to me, I hope to be able to assist my feelow classmates in the coming weeks.
