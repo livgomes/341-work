@@ -7,12 +7,12 @@ Olivia Gomes 51
 Week two of MART-341 introduced us to the basic technologies that we will work with this semester.
 Test file typed covered this week are;
 
-1. Text Documents
-2. Text Editors
-3. Git Version Control
-4. Graphical User Interface '**GUI**'
-5. GitHub
-6. Markup & Markdown
+- Text Documents
+- Text Editors
+- Git Version Control
+- Graphical User Interface '**GUI**'
+- GitHub
+- Markup & Markdown
 
 **Test Documents**- a text document is a document that contains the standard ASCII character set; for example (A-Z, a-z, 0-9 and the standard symbols ?!#$...etc)
 
@@ -29,5 +29,16 @@ Test file typed covered this week are;
 2. create directory
 3. create readme.md file
 4. Download atom
-5. initiate git in powershell
-6.
+5. `Git init` in powershell
+6. Create readme file
+7. `Git add` adding the readme file to atom
+7. Edit and save readme.md file
+7. `git commit -m` in powershell
+8. `Git log`
+8. Take screenshot
+8. Push test1.txt, readme.md and screenshot to GitHub through the use of GitHub desktop
+
+## 3. Issues
+
+The biggest issue I had this week was learning how to push my work to GitHub through sourcetree, to fix this problem I attended a tutorial class, at which I learnt how to use the GitHub desktop. The tutorial was super helpful and I look forward to attending throughout this semster. Another difficulty I faced was remmbering which codes to use when and trying to find which programming editor worked best for me. After much practice with all, I found powershell to be the best for me. I found this link usful!
+[Learning powershell](https://blog.udemy.com/powershell-tutorial/)
