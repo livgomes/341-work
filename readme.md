@@ -49,3 +49,7 @@ I reaally enjoyed working with powershell and playing around with it. I would to
 ## 5. Assistance
 
 Unfortunately this week I was unb  able to help my classmates, as I found it quite difficult myself, however now that the process has become a clearer to me, I hope to be able to assist my feelow classmates in the coming weeks.
+
+## 6. Screenshot
+
+![Image of my editor](mark-down screenshot.jpg).
