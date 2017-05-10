@@ -52,4 +52,4 @@ Unfortunately this week I was unable to help my classmates, as I found it quite 
 
 ## 6. Screenshot
 
-![Image of my editor](mark-down screenshot.jpg).
+![mark-down screenshot](https://cloud.githubusercontent.com/assets/25446352/25880115/b2852376-34f2-11e7-9fc2-af782558b6a6.jpg)
